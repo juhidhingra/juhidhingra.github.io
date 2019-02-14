@@ -2998,6 +2998,12 @@ h6 {
   .copy_right_text p a {
     color: #766dff; }
 
+.center_image {
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* End Footer Area css
 ============================================================================================ */
 /*---------------------------------------------------- */
